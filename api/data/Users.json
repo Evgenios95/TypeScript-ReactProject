@@ -1,0 +1,53 @@
+[
+    {
+        "UserId": 1,
+        "name": "Lio",
+        "surName": "Messi",
+        "email": "Lioome@gmail.com",
+        "cart": {
+            "products": [
+                1,
+                2,
+                3
+            ],
+            "totalPrice": 0
+        }
+    },
+    {
+        "UserId": 2,
+        "name": "Luis",
+        "surName": "Suarez",
+        "email": "Suar@gmail.com",
+        "cart": {
+            "products": [
+                1,
+                4
+            ],
+            "totalPrice": 13398
+        }
+    },
+    {
+        "UserId": 3,
+        "name": "Evgenios",
+        "surName": "Pampoukos",
+        "email": "evpa@gmail.com",
+        "cart": {
+            "products": [
+                15,
+                17
+            ],
+            "totalPrice": 5641
+        }
+    },
+    {
+        "UserId": 4,
+        "name": "Cristiano",
+        "surname": "Ronaldo",
+        "email": "roni@gmail.com"
+    },
+    {
+        "UserId": 5,
+        "name": "Hello",
+        "email": "hello@gmail.com"
+    }
+]

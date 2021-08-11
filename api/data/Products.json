@@ -1,0 +1,130 @@
+[
+    {
+        "productId": 1,
+        "productName": "Mesologgi bottarga",
+        "price": 39,
+        "description": "A lovely mesologgi botarga. I don't even know what this is",
+        "category": "more",
+        "productImage": "1augotaraxo.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Santorini Fava",
+        "price": 22,
+        "description": "Most popular Santorini product",
+        "category": "more",
+        "productImage": "1fava.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Saffron",
+        "price": 14,
+        "description": "Amazing Saffrom from the heart of Kozani",
+        "category": "more",
+        "productImage": "1krokos.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Pinetree Honey",
+        "price": 36,
+        "description": "Honey from my grandma :D",
+        "category": "more",
+        "productImage": "1meli-peuko.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Sesame Oil",
+        "price": 13,
+        "description": "Oil from sesame, delicious!",
+        "category": "more",
+        "productImage": "1Sisameleo.png"
+    },
+    {
+        "productId": 6,
+        "productName": "Fig Sweet",
+        "price": 19,
+        "description": "Unique taste!",
+        "category": "more",
+        "productImage": "1Syko-pellas.png"
+    },
+    {
+        "productId": 7,
+        "productName": "Tahini",
+        "price": 32,
+        "description": "Healthy tahini, yumi!",
+        "category": "more",
+        "productImage": "1taxini.png"
+    },
+    {
+        "productId": 8,
+        "productName": "Mountain Tea (bio)",
+        "price": 13,
+        "description": "Drink this to have super powers",
+        "category": "more",
+        "productImage": "1Tsaibio.png"
+    },
+    {
+        "productId": 9,
+        "productName": "Olympos Feta",
+        "price": 41,
+        "description": "Original Greek Feta",
+        "category": "cheese",
+        "productImage": "2feta.png"
+    },
+    {
+        "productId": 10,
+        "productName": "Kefalograviera Naxou",
+        "price": 48,
+        "description": "From Naxos island!",
+        "category": "cheese",
+        "productImage": "2kefalograviera.png"
+    },
+    {
+        "productId": 11,
+        "productName": "Mitilini Ladotiri",
+        "price": 52,
+        "description": "Oily cheese from Mitilini!",
+        "category": "cheese",
+        "productImage": "2ladotyri.png"
+    },
+    {
+        "productId": 12,
+        "productName": "Metsovone",
+        "price": 67,
+        "description": "Delicious cheese from Metsovo",
+        "category": "cheese",
+        "productImage": "2metsovone.png"
+    },
+    {
+        "productId": 13,
+        "productName": "Metaxa Liqueur",
+        "price": 145,
+        "description": "No words for this!",
+        "category": "spirits",
+        "productImage": "3metaxa.png"
+    },
+    {
+        "productId": 14,
+        "productName": "Nemea Red Wine",
+        "price": 123,
+        "description": "Best red wine ever!",
+        "category": "spirits",
+        "productImage": "3nemea.png"
+    },
+    {
+        "productId": 15,
+        "productName": "Apostolakis Tsipouro",
+        "price": 99,
+        "description": "Tsipouro, ya mas!",
+        "category": "spirits",
+        "productImage": "3tsipouro.png"
+    },
+    {
+        "productId": 16,
+        "productName": "Aged Tsipouro",
+        "price": 264,
+        "description": "Aged tsipouro. Yumi!",
+        "category": "spirits",
+        "productImage": "3tsipouro2.png"
+    }
+]
